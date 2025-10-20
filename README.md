@@ -2,7 +2,7 @@
 
 [![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198334047535&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198334047535) [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fxsj57&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/xsj57) [![Untappd](https://img.shields.io/badge/Untappd-13%20UNIQUE-FFC000?logo=untappd&logoColor=white)](https://untappd.com/user/JieXuS)
 
-### About Me <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30" />
+### About Me <img src="https://cultofthepartyparrot.com/parrots/hd/clownparrot.gif" width="30" height="30" />
 
 <p>🎓 Master's Degree in <strong>Forestry Engineering</strong> at FAFU.<img src="https://cultofthepartyparrot.com/parrots/hd/thumbsupparrot.gif" width="30" height="30" /></p>
 <p>🌲 I'm researching <strong>3D Printing</strong> related topics.<img src="https://cultofthepartyparrot.com/parrots/hd/daftpunkparrot.gif" width="30" height="30" /></p>
@@ -17,7 +17,7 @@
 ![Aero 15 Laptop](https://custom-icon-badges.demolab.com/badge/Aero%2015%20Laptop-Windows%2010-0078D6?logo=windows11)
 ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-Pi%20OS-A22846?logo=raspberry-pi&logoColor=white)
 
-### 🤖 Working Partners <img src="https://cultofthepartyparrot.com/parrots/hd/clownparrot.gif" width="30" height="30" />
+### 🤖 Working Partners <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30" />
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini">

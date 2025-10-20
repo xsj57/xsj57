@@ -29,7 +29,7 @@
   </a>
 </p>
 
-## Wish U a nice day！
+## **Wish U a nice day！**
 <div>
   <img src="https://cultofthepartyparrot.com/parrots/hd/hdrparrot.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" width="30" height="30" />

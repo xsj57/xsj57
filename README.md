@@ -1,6 +1,6 @@
 # こんにちは！Shijie Xu です！<img src="https://cultofthepartyparrot.com/flags/hd/chinaparrot.gif" width="30" height="30" />
 
-[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198334047535&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198334047535) [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fxsj57&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/xsj57)
+[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198334047535&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198334047535) [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fxsj57&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/xsj57) [![Untappd](https://img.shields.io/badge/Untappd-13%20UNIQUE-FFC000?logo=untappd&logoColor=white)](https://untappd.com/user/JieXuS)
 
 ### About Me <img src="https://cultofthepartyparrot.com/parrots/hd/clownparrot.gif" width="30" height="30" />
 

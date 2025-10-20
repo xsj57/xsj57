@@ -1,16 +1,46 @@
-## Hi there 👋
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top">
+      
+## こんにちは！Shijie Xu です！<img src="https://cultofthepartyparrot.com/flags/hd/chinaparrot.gif" width="30" height="30" />
 
-<!--
-**xsj57/xsj57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198334047535&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198334047535) [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fxsj57&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/xsj57)
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Master's Degree in **Forestry Engineering** at FAFU.
+- 🌲 I'm researching **3D Printing** related topics.
+- 🎿 I am from **Yangzhou** and now live in **Fuzhou**.
+
+[![Lavida](https://img.shields.io/badge/Volkswagen-Lavida-004C97?style=for-the-badge&logo=volkswagen&logoColor=white)
+
+### 💻 Gear
+
+[![MBP 16 M1 Pro](https://img.shields.io/badge/MBP%2016%20M1%20Pro-macOS-000000?logo=apple&logoColor=white)](#)
+[![Mac mini M4](https://img.shields.io/badge/Mac%20mini%20M4-macOS-000000?logo=apple&logoColor=white)](#)
+[![Aero 15 Laptop](https://custom-icon-badges.demolab.com/badge/Aero%2015%20Laptop-Windows%2010-0078D6?logo=windows11)](#)
+[![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-Pi%20OS-A22846?logo=raspberry-pi&logoColor=white)](#)
+
+### 🤖 Working Partners
+
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#) [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#) [![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
+[![Safari](https://img.shields.io/badge/Safari-006CFF?logo=safari&logoColor=fff)] [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)] [![iCloud](https://img.shields.io/badge/iCloud-3693F3?logo=icloud&logoColor=fff)] [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)] [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)] 
+
+### 🛠️ Tech Stack
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,lua,vue,npm,git,github,vscode,neovim,docker,debian,arduino,raspberrypi,apple,gcp,cloudflare,ps,pr,ae,au,autocad,notion,obsidian,md,gmail,linkedin&theme=light&perline=13" />
+  </a>
+</p>
+
+**Wish U a nice day！** <img src="https://cultofthepartyparrot.com/parrots/hd/hdrparrot.gif" width="30" height="30" />
+
+    </td>
+    <td width="285" align="right" valign="top">
+      <a href="https://www.xsj57.us.kg">
+        <img src="https://raw.githubusercontent.com/xsj57/xsj57/refs/heads/main/sticker.webp" height="275" alt="Shijie Xu Sticker" />
+      </a>
+    </td>
+  </tr>
+</table>

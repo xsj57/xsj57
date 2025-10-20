@@ -4,9 +4,9 @@
 
 ### About Me <img src="https://cultofthepartyparrot.com/parrots/hd/clownparrot.gif" width="30" height="30" />
 
-🎓 Master's Degree in **Forestry Engineering** at FAFU.<img src="https://cultofthepartyparrot.com/parrots/hd/thumbsupparrot.gif" width="30" height="30" />
-🌲 I'm researching **3D Printing** related topics.<img src="https://cultofthepartyparrot.com/parrots/hd/daftpunkparrot.gif" width="30" height="30" />
-🎿 I am from **Yangzhou** and now live in **Fuzhou**.<img src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif" width="30" height="30" /><img src="https://cultofthepartyparrot.com/parrots/hd/reverseportalorangeparrot.gif" width="30" height="30" />
+<p>🎓 Master's Degree in **Forestry Engineering** at FAFU.<img src="https://cultofthepartyparrot.com/parrots/hd/thumbsupparrot.gif" width="30" height="30" /></p>
+<p>🌲 I'm researching **3D Printing** related topics.<img src="https://cultofthepartyparrot.com/parrots/hd/daftpunkparrot.gif" width="30" height="30" /></p>
+<p>🎿 I am from **Yangzhou** and now live in **Fuzhou**.<img src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif" width="30" height="30" /><img src="https://cultofthepartyparrot.com/parrots/hd/reverseportalorangeparrot.gif" width="30" height="30" /></p>
 
 ![Lavida](https://img.shields.io/badge/Volkswagen-Lavida-004C97?style=for-the-badge&logo=volkswagen&logoColor=white)
 

@@ -18,49 +18,47 @@
 ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-Pi%20OS-A22846?logo=raspberry-pi&logoColor=white)
 
 ### 🤖 Working Partners <img src="https://cultofthepartyparrot.com/parrots/hd/clownparrot.gif" width="30" height="30" />
-<p align="center">
-  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
-  ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
-  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
-  ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)
-  ![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)
-  ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
-</p>
-<p align="center">
-  ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)
-  ![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)
-  ![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)
-</p>
-<p align="center">
-  ![Safari](https://img.shields.io/badge/Safari-006CFF?logo=safari&logoColor=fff)
-  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)
-  ![iCloud](https://img.shields.io/badge/iCloud-3693F3?logo=icloud&logoColor=fff)
-  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)
-</p>
-<p align="center">
-  ![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)
-  ![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
-  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
-</p>
-<p align="center">
-  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
-  ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)
-  ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)
-  ![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)
-  ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?logo=Apple%20TV&logoColor=white)
-</p>
-<p align="center">
-  ![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)
-  ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)
-  ![Tidal](https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white)
-  ![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?logo=apple-podcasts&logoColor=white)
-  ![Shazam](https://img.shields.io/badge/Shazam-0088FF?logo=Shazam&logoColor=white)
-</p>
 
----
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff" alt="Perplexity">
+  <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="Deepseek">
+  <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" alt="Ollama">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff" alt="Homebrew">
+  <img src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff" alt="tmux">
+  <img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term" alt="Ghostty">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Safari-006CFF?logo=safari&logoColor=fff" alt="Safari">
+  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" alt="Google Chrome">
+  <img src="https://img.shields.io/badge/iCloud-3693F3?logo=icloud&logoColor=fff" alt="iCloud">
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff" alt="Google Drive">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X">
+  <img src="https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white" alt="WeChat">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+  <img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white" alt="Netflix">
+  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch">
+  <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="TikTok">
+  <img src="https://img.shields.io/badge/Apple%20TV-000000?logo=Apple%20TV&logoColor=white" alt="Apple TV">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white" alt="Apple Music">
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white" alt="YouTube Music">
+  <img src="https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white" alt="Tidal">
+  <img src="https://img.shields.io/badge/Apple_Podcasts-9933CC?logo=apple-podcasts&logoColor=white" alt="Apple Podcasts">
+  <img src="https://img.shields.io/badge/Shazam-0088FF?logo=Shazam&logoColor=white" alt="Shazam">
+</p>
 
 ### 🛠️ Tech Stack
 

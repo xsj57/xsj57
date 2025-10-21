@@ -10,7 +10,7 @@
 
 ![Lavida](https://img.shields.io/badge/Volkswagen-Lavida-004C97?style=for-the-badge&logo=volkswagen&logoColor=white)
 
-### 💻 Gear <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30" />
+### Gear <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30" />
 
 ![MBP M1 Pro](https://img.shields.io/badge/MBP%20M1%20Pro-macOS%20Tahoe-000000?logo=apple&logoColor=white)
 ![Mac mini M4](https://img.shields.io/badge/Mac%20mini%20M4-macOS%20Tahoe-000000?logo=apple&logoColor=white)
@@ -18,7 +18,7 @@
 ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-Pi%20OS-A22846?logo=raspberry-pi&logoColor=white)
 [![Cloudcone VPS](https://img.shields.io/badge/Cloudcone%20VPS-Ubuntu%2022.04-E95420?logo=ubuntu&logoColor=white)](#)
 
-### 🤖 Working Partners <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30" />
+### Working Partners <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30" />
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini">
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Shazam-0088FF?logo=Shazam&logoColor=white" alt="Shazam">
 </p>
 
-### 🛠️ Tech Stack
+### Tech Stack <img src="https://cultofthepartyparrot.com/parrots/hd/maskparrot.gif" width="30" height="30" />
 
 <p>
   <a href="https://skillicons.dev">

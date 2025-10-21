@@ -6,7 +6,7 @@
 
 <p>🎓 Master's Degree in <strong>Forestry Engineering</strong> at FAFU.<img src="https://cultofthepartyparrot.com/parrots/hd/thumbsupparrot.gif" width="30" height="30" /></p>
 <p>🌲 I'm researching <strong>3D Printing</strong> related topics.<img src="https://cultofthepartyparrot.com/parrots/hd/daftpunkparrot.gif" width="30" height="30" /></p>
-<p>🎿 I am from <strong>Yangzhou</strong> and now live in <strong>Fuzhou</strong>.<img src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif" width="30" height="30" /><img src="https://cultofthepartyparrot.com/parrots/hd/reverseportalorangeparrot.gif" width="30" height="30" /></p>
+<p>🎿 I am from <strong>Yangzhou</strong> and now live in <strong>Fuzhou</strong>.<img src="https://cultofthepartyparrot.com/parrots/hd/googlyeyesparrot.gif" width="30" height="30" />
 
 ![Lavida](https://img.shields.io/badge/Volkswagen-Lavida-004C97?style=for-the-badge&logo=volkswagen&logoColor=white)
 

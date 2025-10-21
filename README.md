@@ -82,3 +82,10 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/christmasparrot.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30" />
 </div>
+
+<a href="https://github.com/xsj57">
+  <img height=200 align="center" src="https://github-readme-stats-theta-seven-41.vercel.app/api?username=xsj57&show_icons=true&theme=catppuccin_latte&rank_icon=github&bg_color=00000000&border_radius=10&locale=ja&include_all_commits=true&hide_border=true&hide=stars" />
+</a>
+<a href="https://github.com/xsj57">
+  <img height=200 align="center" src="https://github-readme-stats-theta-seven-41.vercel.app/api/top-langs?username=xsj57&show_icons=true&theme=buefy&bg_color=00000000&border_radius=10&layout=compact&stats_format=bytes&hide_border=true&card_width=320" />
+</a>

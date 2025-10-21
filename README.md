@@ -16,6 +16,7 @@
 ![Mac mini M4](https://img.shields.io/badge/Mac%20mini%20M4-macOS-000000?logo=apple&logoColor=white)
 ![Aero 15 Laptop](https://custom-icon-badges.demolab.com/badge/Aero%2015%20Laptop-Windows%2010-0078D6?logo=windows11)
 ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-Pi%20OS-A22846?logo=raspberry-pi&logoColor=white)
+[![Cloudcone VPS](https://img.shields.io/badge/Cloudcone%20VPS-Ubuntu%2022.04-E95420?logo=ubuntu&logoColor=white)](#)
 
 ### 🤖 Working Partners <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30" />
 

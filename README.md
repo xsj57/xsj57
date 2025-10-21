@@ -65,7 +65,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,lua,vue,npm,git,github,vscode,neovim,docker,debian,arduino,raspberrypi,apple,gcp,cloudflare,ps,pr,ae,au,autocad,notion,obsidian,md,gmail,linkedin&theme=light&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,lua,vue,npm,git,github,vscode,neovim,docker,debian,arduino,raspberrypi,apple,gcp,cloudflare,ps,pr,ae,au,autocad,notion,obsidian,md,gmail,linkedin&theme=dark&perline=13" />
   </a>
 </p>
 

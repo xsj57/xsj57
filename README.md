@@ -3,7 +3,7 @@
 
 [![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198334047535&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198334047535) [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fxsj57&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/xsj57) [![Untappd](https://img.shields.io/badge/Untappd-13%20UNIQUE-FFC000?logo=untappd&logoColor=white)](https://untappd.com/user/JieXuS)
 
-### About Me <img src="https://cultofthepartyparrot.com/parrots/hd/clownparrot.gif" width="30" height="30" />
+### <img src="https://cultofthepartyparrot.com/parrots/hd/clownparrot.gif" width="30" height="30" /> About Me 
 
 <p>🎓 Master's Degree in <strong>Forestry Engineering</strong> at FAFU.<img src="https://cultofthepartyparrot.com/parrots/hd/thumbsupparrot.gif" width="30" height="30" /></p>
 <p>🌲 I'm researching <strong>3D Printing</strong> related topics.<img src="https://cultofthepartyparrot.com/parrots/hd/daftpunkparrot.gif" width="30" height="30" /></p>
@@ -11,7 +11,7 @@
 
 ![Lavida](https://img.shields.io/badge/Volkswagen-Lavida-004C97?style=for-the-badge&logo=volkswagen&logoColor=white)
 
-### Gear <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30" />
+### <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30" /> Gear 
 
 ![MBP M1 Pro](https://img.shields.io/badge/MBP%20M1%20Pro-macOS%20Tahoe-000000?logo=apple&logoColor=white)
 ![Mac mini M4](https://img.shields.io/badge/Mac%20mini%20M4-macOS%20Tahoe-000000?logo=apple&logoColor=white)
@@ -19,7 +19,7 @@
 ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-Pi%20OS-A22846?logo=raspberry-pi&logoColor=white)
 [![Cloudcone VPS](https://img.shields.io/badge/Cloudcone%20VPS-Ubuntu%2022.04-E95420?logo=ubuntu&logoColor=white)](#)
 
-### Working Partners <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30" />
+### <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30" /> Working Partners 
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini">
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Shazam-0088FF?logo=Shazam&logoColor=white" alt="Shazam">
 </p>
 
-### Tech Stack <img src="https://cultofthepartyparrot.com/parrots/hd/maskparrot.gif" width="30" height="30" />
+### <img src="https://cultofthepartyparrot.com/parrots/hd/maskparrot.gif" width="30" height="30" /> Tech Stack 
 
 <p>
   <a href="https://skillicons.dev">

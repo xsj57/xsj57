@@ -16,7 +16,7 @@
 ![MBP M1 Pro](https://img.shields.io/badge/MBP%20M1%20Pro-macOS%20Tahoe-000000?logo=apple&logoColor=white)
 ![Mac mini M4](https://img.shields.io/badge/Mac%20mini%20M4-macOS%20Tahoe-000000?logo=apple&logoColor=white)
 ![Aero 15 Laptop](https://custom-icon-badges.demolab.com/badge/Aero%2015%20Laptop-Windows%2010-0078D6?logo=windows11)
-[![Intel NUC8](https://img.shields.io/badge/Intel%20NUC8-NixOS-5277C3?logo=nixos&logoColor=white)](#)
+[![Intel NUC8](https://img.shields.io/badge/Intel%20NUC8-Fedora-51A2DA?logo=fedora&logoColor=white)](#)
 ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-Pi%20OS-A22846?logo=raspberry-pi&logoColor=white)
 [![Cloudcone VPS](https://img.shields.io/badge/Cloudcone%20VPS-Ubuntu%2022.04-E95420?logo=ubuntu&logoColor=white)](#)
 

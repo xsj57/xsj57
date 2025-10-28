@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=35&pause=1000&color=983FF7FD&center=true&vCenter=true&multiline=true&width=435&height=45&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81Eric+Xu%E3%81%A7%E3%81%99%EF%BC%81" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont+JP+N&size=40&pause=1000&color=C13FF7&center=true&vCenter=true&multiline=true&height=55&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%82%8F%EF%BC%81Eric+Xu+%E3%81%A7%E3%81%99%EF%BC%81" alt="Typing SVG" /></a>
 <img src="https://cultofthepartyparrot.com/flags/hd/chinaparrot.gif" width="50" height="50" />
 
 [![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198334047535&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198334047535) [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fxsj57&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/xsj57) [![Untappd](https://img.shields.io/badge/Untappd-13%20UNIQUE-FFC000?logo=untappd&logoColor=white)](https://untappd.com/user/JieXuS)
@@ -15,6 +15,7 @@
 
 ![MBP M1 Pro](https://img.shields.io/badge/MBP%20M1%20Pro-macOS%20Tahoe-000000?logo=apple&logoColor=white)
 ![Mac mini M4](https://img.shields.io/badge/Mac%20mini%20M4-macOS%20Tahoe-000000?logo=apple&logoColor=white)
+[![UTM](https://img.shields.io/badge/UTM-NixOS-5277C3?logo=nixos&logoColor=white)](#)
 ![Aero 15 Laptop](https://custom-icon-badges.demolab.com/badge/Aero%2015%20Laptop-Windows%2010-0078D6?logo=windows11)
 [![Intel NUC8](https://img.shields.io/badge/Intel%20NUC8-Fedora-51A2DA?logo=fedora&logoColor=white)](#)
 ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-Pi%20OS-A22846?logo=raspberry-pi&logoColor=white)

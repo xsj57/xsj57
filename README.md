@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff" alt="Homebrew">
   <img src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff" alt="tmux">
   <img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term" alt="Ghostty">
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?logo=neovim" alt="Neovim">
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?logo=neovim&logoColor=white" alt="Neovim">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Safari-006CFF?logo=safari&logoColor=fff" alt="Safari">

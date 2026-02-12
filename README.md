@@ -25,10 +25,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/MiniMax-E73562?logo=minimax&logoColor=fff&style=flat" alt="MiniMax Badge">
+  <img src="https://img.shields.io/badge/github%20copilot-000000?logo=githubcopilot&logoColor=white" alt="Copilot">
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff" alt="Perplexity">
-  <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="Deepseek">
   <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" alt="Ollama">
 </p>
 <p>
@@ -38,8 +38,7 @@
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?logo=neovim&logoColor=white" alt="Neovim">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Safari-006CFF?logo=safari&logoColor=fff" alt="Safari">
-  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" alt="Google Chrome">
+  <img src="https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff" alt="Zen">
   <img src="https://img.shields.io/badge/iCloud-3693F3?logo=icloud&logoColor=fff" alt="iCloud">
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff" alt="Google Drive">
 </p>
@@ -69,7 +68,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,lua,vue,npm,git,github,vscode,neovim,docker,debian,arduino,raspberrypi,apple,gcp,cloudflare,ps,pr,ae,au,autocad,notion,obsidian,md,gmail,linkedin&theme=dark&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,lua,vue,npm,swift,git,github,vscode,neovim,docker,debian,arduino,raspberrypi,apple,gcp,cloudflare,ps,pr,ae,au,autocad,notion,obsidian,md,linkedin&theme=dark&perline=13" />
   </a>
 </p>
 
